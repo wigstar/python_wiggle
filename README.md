@@ -1,2 +1,8 @@
 # python_wiggle
-Total newb getting going with unit testing in python for starters. 
+
+#Project Description
+Total python newb. Getting going with unit testing, for starters.
+
+##Tests
+Simply using unittest at the moment
+python <...>test.py 
