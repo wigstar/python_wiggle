@@ -1,11 +1,11 @@
 # python_wiggle
 
-#Project Description
-Total python newb.
+## Project Description
+
 Getting going with unit testing for starters.
 - Simple unit testing set up, with a folder structure that works with nose2. 
 
-##Tests
+## Tests
 - Unittest 
 - Nose2 as test runner in the command line
 
